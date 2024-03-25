@@ -13,7 +13,7 @@ namespace ThemeTussleMoveList
 
         private void CharacterSelect_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         private void NinaBtn_Click(object sender, EventArgs e)
@@ -29,35 +29,35 @@ namespace ThemeTussleMoveList
 
         private void SuzieBtn_Click(object sender, EventArgs e)
         {
-            if (ninaForm == null || ninaForm.IsDisposed)
+            if (suzieForm == null || suzieForm.IsDisposed)
             {
-                ninaForm = new Nina();
-                ninaForm.FormClosed += (s, e) => ninaForm = null;
+                suzieForm = new Suzie();
+                suzieForm.FormClosed += (s, e) => suzieForm = null;
             }
-            ninaForm.Show();
-            ninaForm.BringToFront();
+            suzieForm.Show();
+            suzieForm.BringToFront();
         }
 
         private void LeoBtn_Click(object sender, EventArgs e)
         {
-            if (ninaForm == null || ninaForm.IsDisposed)
+            if (leoForm == null || leoForm.IsDisposed)
             {
-                ninaForm = new Nina();
-                ninaForm.FormClosed += (s, e) => ninaForm = null;
+                leoForm = new Leo();
+                leoForm.FormClosed += (s, e) => leoForm = null;
             }
-            ninaForm.Show();
-            ninaForm.BringToFront();
+            leoForm.Show();
+            leoForm.BringToFront();
         }
 
         private void CharlieBtn_Click(object sender, EventArgs e)
         {
-            if (ninaForm == null || ninaForm.IsDisposed)
+            if (charlieForm == null || charlieForm.IsDisposed)
             {
-                ninaForm = new Nina();
-                ninaForm.FormClosed += (s, e) => ninaForm = null;
+                charlieForm = new Charlie();
+                charlieForm.FormClosed += (s, e) => charlieForm = null;
             }
-            ninaForm.Show();
-            ninaForm.BringToFront();
+            charlieForm.Show();
+            charlieForm.BringToFront();
         }
     }
 }

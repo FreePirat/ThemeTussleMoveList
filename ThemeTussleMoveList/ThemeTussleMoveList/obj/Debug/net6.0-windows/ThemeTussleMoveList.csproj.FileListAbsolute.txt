@@ -36,3 +36,6 @@ C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTu
 C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ThemeTussleMoveList.genruntimeconfig.cache
 C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ref\ThemeTussleMoveList.dll
 C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ThemeTussleMoveList.Nina.resources
+C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ThemeTussleMoveList.Charlie.resources
+C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ThemeTussleMoveList.Leo.resources
+C:\Users\jaken\Documents\COLLEGE\ThemeTussleMoveList\ThemeTussleMoveList\ThemeTussleMoveList\obj\Debug\net6.0-windows\ThemeTussleMoveList.Suzie.resources
