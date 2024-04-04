@@ -98,8 +98,8 @@ namespace ThemeTussleMoveList
                     txtHurtBoxPos.Text = selectedMove["HurtBoxPos"].ToString();
                     txtDesc.Text = selectedMove["Description"].ToString();
 
-                    //string moveImg = $"Suzie{txtName.Text}";
-                    //charImg.BackgroundImage = (Image)Properties.Resources.ResourceManager.GetObject(moveImg);
+                    string moveImg = $"Charlie{txtName.Text}";
+                    charImg.BackgroundImage = (Image)Properties.Resources.ResourceManager.GetObject(moveImg);
 
                     firstId = Convert.ToInt32(ds.Tables[1].Rows[0]["FirstId"]);
                     previousId = ds.Tables[1].Rows[0]["PreviousId"] != DBNull.Value ? Convert.ToInt32(ds.Tables["Table1"].Rows[0]["PreviousId"]) : (int?)null;
